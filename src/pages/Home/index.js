@@ -1,21 +1,22 @@
 import React from 'react';
-import LogoTechno from './components/LogoTechno'
-import HeadTechno from './components/HeaderTechno'
-import ButtonTechno from './components/ButtonTechno'
-//import Button from './components/Button'
-import dadosIniciais from './data/dados_iniciais.json'
-import BannerMain from './components/BannerMain'
-import Carousel from './components/Carousel'
-import Footer from './components/Footer'
+import { Link } from 'react-router-dom';
+import LogoTechno from '../../components/LogoTechno'
+import HeadTechno from '../../components/HeaderTechno'
+import ButtonTechno from '../../components/ButtonTechno'
+import dadosIniciais from '../../data/dados_iniciais.json'
+import BannerMain from '../../components/BannerMain'
+import Carousel from '../../components/Carousel'
+import Footer from '../../components/Footer'
 
-
-function App(){
+function Home(){
   return(    
     <div style={{ background: "#141414" }}>
     
       <HeadTechno>
         <LogoTechno />
-        <ButtonTechno as='a'>Novo vídeo</ButtonTechno>
+        <ButtonTechno as={Link} to="cadastro/video">
+          Novo vídeo
+        </ButtonTechno>
       </HeadTechno>
 
       <BannerMain
@@ -54,4 +55,4 @@ function App(){
   )
 }
 
-export default App;
+export default Home;
