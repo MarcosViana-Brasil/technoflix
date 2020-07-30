@@ -21,5 +21,7 @@ ReactDOM.render(
     </Switch>
   </BrowserRouter>,
 
+  // fazendo teste de commit
+
   document.getElementById('root')
 );
