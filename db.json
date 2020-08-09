@@ -17,6 +17,12 @@
       "nomeCategoria": "React",
       "descricaoCategoria": "Outra categoria bacana de usar",
       "corCategoria": "#cbd1ff"
+    },
+    {
+      "id": 4,
+      "nomeCategoria": "Angular",
+      "descricaoCategoria": "Mais uma categoria bacana de usar",
+      "corCategoria": "#cbd1ff"
     }
   ]
 }
