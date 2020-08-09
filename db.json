@@ -1,0 +1,22 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nomeCategoria": "Front End",
+      "descricaoCategoria": "Uma categoria bacana de usar",
+      "corCategoria": "#cbd1ff"
+    },
+    {
+      "id": 2,
+      "nomeCategoria": "Back End",
+      "descricaoCategoria": "Outra categoria bacana de usar",
+      "cor": "#cbd1ff"
+    },
+    {
+      "id": 3,
+      "nomeCategoria": "React",
+      "descricaoCategoria": "Outra categoria bacana de usar",
+      "corCategoria": "#cbd1ff"
+    }
+  ]
+}
