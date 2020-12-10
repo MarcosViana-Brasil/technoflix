@@ -2,6 +2,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+## DEMO:  https://technoflix.vercel.app/     
+
+## Esse projeto foi feito em acompanhamento coma a semana de imersão em React da Alura
+
 In the project directory, you can run:
 
 ### `yarn start`
