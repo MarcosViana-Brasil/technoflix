@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## DEMO:  https://technoflix.vercel.app/     
 
-## Esse projeto foi feito em acompanhamento coma a semana de imersão em React da Alura
+## Esse projeto foi feito em acompanhamento coma a semana de imersão em React da Alura (https://alura.com.br)
 
 In the project directory, you can run:
 
